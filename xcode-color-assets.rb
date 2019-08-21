@@ -1,8 +1,8 @@
 class XcodeColorAssets < Formula
   desc "Create (dark mode compatible) color assets for Xcode programmatically from a CSS-like textfile"
   homepage "https://github.com/nesium/xcode-color-assets"
-  url "https://github.com/nesium/xcode-color-assets/releases/download/0.2.1/xcode-color-assets-0.2.1.tar.gz"
-  sha256 "6e2c33ca30cfda691d6cc12ec391c5259f5930dbb2c07211c5f0e8345f6c7991"
+  url "https://github.com/nesium/xcode-color-assets/releases/download/0.2.1/xcode-color-assets-0.3.0.tar.gz"
+  sha256 "5bac8f00393aa51ea56216a0caf88a62aec986c1ecc72bb8e5d0c90661b8edd7"
 
   bottle :unneeded
 
